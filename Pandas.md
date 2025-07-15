@@ -13,7 +13,7 @@ Each entry includes:
 
 ---
 
-![EDA and Visualization](https://i.imgur.com/GwP4nXh.png)
+![EDA and Visualization](pandas-logo.png)
 
 > 💡 *"Good analysis starts with clean data and clear visuals."*
 
