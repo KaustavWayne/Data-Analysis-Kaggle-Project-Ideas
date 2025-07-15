@@ -63,9 +63,9 @@ These are famous datasets that are perfect for getting started. They are well-do
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
     *   **Objective:** This is a fantastic multi-table dataset. Practice merging different CSVs (customers, orders, payments, products) to analyze the entire customer journey, from order to delivery.
 
-8.  **Superstore Sales Dataset**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/roshansharma/superstore-sales-dataset)
-    *   **Objective:** A classic business dataset. Perform EDA to find the most profitable product categories, analyze sales performance by region, and identify trends in customer segments.
+8. **Superstore Sales Dataset**
+   * ✅ **Link:** [Superstore Sales Dataset](https://www.kaggle.com/datasets/patelmuqarrab/superstore-sales-dataset)
+   * **Objective:** A classic business dataset. Perform EDA to find the most profitable product categories, analyze sales performance by region, and identify trends in customer segments. :contentReference[oaicite:1]{index=1}
 
 9.  **Online Retail II UCI**
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
@@ -98,8 +98,8 @@ These are famous datasets that are perfect for getting started. They are well-do
     *   **Objective:** Analyze daily song charts to identify trending artists, track the popularity of songs over time, and explore regional music preferences.
 
 16. **IMDb Movies Extensive Dataset**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/stefanoleone992/imdb-extensive-dataset)
-    *   **Objective:** Explore a rich dataset of movie information to find correlations between budget, genre, director, and IMDb rating.
+   * ✅ **Link:** [IMDb Extensive Dataset](https://www.kaggle.com/datasets/simhyunsu/imdbextensivedataset)
+   * **Objective:** Explore a rich dataset of movie information. Analyze correlations between budget, genre, director, and IMDb rating; clean missing fields; and visualize rating distributions and top genres.                   :contentReference[oaicite:2]{index=2}
 
 17. **Trending YouTube Video Statistics**
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/datasnaek/youtube-new)
@@ -114,14 +114,14 @@ These are famous datasets that are perfect for getting started. They are well-do
     *   **Objective:** A simple and clean dataset to analyze trends in bestselling books, such as the popularity of fiction vs. non-fiction and top-performing authors.
 
 20. **The Simpsons by the Data**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/ambarish/the-simpsons-by-the-data)
-    *   **Objective:** A fun dataset for text analysis. Explore script data to determine which characters have the most lines, analyze sentiment, and visualize character interactions.
+   * ✅ **Link:** [The Simpsons Dataset](https://www.kaggle.com/datasets/prashant111/the-simpsons-dataset)
+   * **Objective:** A fun dataset for text analysis. Explore script data to determine which characters have the most lines, analyze sentiment, and visualize character interactions.
 
 ### Category 4: Health & Science
 
 21. **Heart Attack Analysis & Prediction Dataset**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
-    *   **Objective:** Analyze patient medical data to explore the relationships between various factors (e.g., cholesterol, blood pressure, age) and the risk of a heart attack.
+   * ✅ **Link:** [Heart Attack Analysis & Prediction Dataset](https://www.kaggle.com/datasets/gogiayogita/heart-attack-analysis-and-prediction-dataset)
+   * **Objective:** Analyze patient medical data to explore the relationships between factors like cholesterol, blood pressure, and age with the risk of a heart attack.
 
 22. **Stroke Prediction Dataset**
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
@@ -149,9 +149,9 @@ These are famous datasets that are perfect for getting started. They are well-do
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset)
     *   **Objective:** Clean and explore a massive dataset of soccer players. Analyze player attributes by position, find undervalued players based on stats vs. market value, and visualize distributions of skills.
 
-28. **NBA Player Stats - Seasons 1950 to 2022**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/sumitrodatta/nba-player-stats-1950-2022)
-    *   **Objective:** Analyze the evolution of the NBA game by tracking player stats over decades. Practice filtering, grouping, and visualizing player career trajectories.
+28. **NBA Player Stats – 1950 to 2022**
+   * ✅ **Link:** [NBA Players Data (1950–2021)](https://www.kaggle.com/datasets/blitzapurv/nba-players-data-1950-to-2021)
+   * **Objective:** Analyze the evolution of the NBA by tracking player stats over decades. Practice filtering, grouping, and visualizing player career trajectories.
 
 29. **Formula 1 World Championship (1950 - 2023)**
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
@@ -172,8 +172,8 @@ These are famous datasets that are perfect for getting started. They are well-do
     *   **Objective:** Clean and analyze the NYC Airbnb market. Explore pricing by neighborhood, room type, and availability. Great for practicing geospatial plotting.
 
 33. **World Air Quality Index by City and Country**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/hasibalmuzdaddid/air-quality-data-from-waqi)
-    *   **Objective:** Clean and process daily air quality data to analyze and visualize pollution levels across different cities and countries over time.
+    * ✅ **Link:** [Global Urban Air Quality Index Dataset (2015‑2025)](https://www.kaggle.com/datasets/syedmtalhahasan/global-urban-air-quality-index-dataset-2015-2025)
+    * **Objective:** Clean and process daily air quality data. Analyze and visualize pollution levels across different cities and countries over time to identify trends and compare regional air quality.
 
 34. **Starbucks Locations Worldwide**
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/starbucks/store-locations)
@@ -194,12 +194,12 @@ These are famous datasets that are perfect for getting started. They are well-do
     *   **Objective:** Analyze a fictional HR dataset to understand the factors that lead to employees leaving their jobs. Practice cleaning and one-hot encoding categorical features.
 
 38. **Salary Prediction of Data Professions**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/jackogozaly/data-science-and-stem-salaries)
-    *   **Objective:** Clean messy salary data and job titles to analyze salary trends in data-related roles based on experience level, company size, and location.
+    * ✅ **Link:** [Data Science Salaries 2024](https://www.kaggle.com/datasets/sazidthe1/data-science-salaries)
+    * **Objective:** Clean messy salary fields and job titles. Analyze salary trends in data-related roles based on experience levels, company size, and location.
 
-39. **US Mass Shootings (1982-2023)**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/adamschroeder/us-mass-shootings-1982-2023)
-    *   **Objective:** Analyze a sensitive but important dataset to explore trends over time, including victim demographics, location types, and mental health indicators of shooters.
+39. **US Mass Shootings (1982‑2023)**
+    * ✅ **Link:** [US Mass Shootings Dataset (1966–2021)](https://www.kaggle.com/datasets/dsp112/us-mass-shootings-dataset-19822021)
+    * **Objective:** Analyze trends over time, including victim demographics, location types, and incident counts. Suitable for time-series analysis and geographic pattern visualization.
 
 40. **Student Performance Dataset**
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/rkiattisak/student-performance-in-mathematics)
@@ -228,21 +228,21 @@ These are famous datasets that are perfect for getting started. They are well-do
     *   **Objective:** Clean real-world data that is often messy (e.g., inconsistent units in `Mileage` and `Engine`). Explore the key features that determine the price of a used car.
 
 46. **USA's Top 500 Companies (2022)**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/whenamI/fortune-500-2022)
-    *   **Objective:** Analyze data on America's largest companies. Explore revenue and profit by industry, visualize the geographic distribution of headquarters, and analyze the tenure of CEOs.
+    * ✅ **Link:** [Fortune 500 Companies (1996–2023)](https://www.kaggle.com/datasets/rm1000/fortune-500-companies)
+    * **Objective:** Analyze data on America's largest companies. Explore revenue and profit by industry, visualize the geographic distribution of headquarters, and analyze CEO tenure trends.
 
 47. **Country Mapping - ISO, Continent, Region**
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/andradaolteanu/country-mapping-iso-continent-region)
     *   **Objective:** A utility dataset that's perfect for practicing merging. Combine this with any other dataset containing country names to add continent and region data for better aggregation and analysis.
 
 48. **Zomato Bangalore Restaurants**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/himanshu-panwar/zomato-bangalore-restaurants)
-    *   **Objective:** Clean columns like `rate`, `cost`, and `cuisines` to analyze the restaurant landscape of Bangalore. Explore popular locations, cuisine types, and pricing.
+    * ✅ **Link:** [Zomato Bangalore Dataset](https://www.kaggle.com/datasets/absin7/zomato-bangalore-dataset)
+    * **Objective:** Clean messy columns like `rate`, `cost`, and `cuisines`. Analyze the restaurant landscape of Bangalore — find popular locations, cuisine types, and price trends.
 
 49. **Mushroom Classification**
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/uciml/mushroom-classification)
     *   **Objective:** A safe but interesting classification problem. All features are categorical. The objective is to explore the characteristics of edible vs. poisonous mushrooms. Great for practicing encoding and frequency analysis.
 
 50. **Top 2700 US Breweries**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/shivan118/top-2700-us-breweries-dataset)
-    *   **Objective:** Analyze the craft beer scene in the US. Clean location data to map breweries by state and explore the most common beer styles and ABV (Alcohol By Volume) levels.
+    * ✅ **Link:** [Breweries and Brew Pubs in the USA](https://www.kaggle.com/datasets/datafiniti/breweries-brew-pubs-in-the-usa)
+    * **Objective:** Analyze the craft beer scene across the US. Clean and map location data by state, explore common beer styles, and study distributions of ABV and IBU levels.
