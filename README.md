@@ -179,8 +179,8 @@ Official data that often requires significant cleaning and can reveal important 
     *   **Analysis Focus:** Explore a detailed dataset of gun violence incidents in the US. Analyze incident characteristics, participant demographics, and geographic trends.
 
 35. **World Bank International Debt Statistics**
-    * ✅ **Link:** [World Bank International Debt Statistics](https://www.kaggle.com/datasets/worldbank/international-debt-statistics)
-    * **Analysis Focus:** A complex, multi-table dataset. Merge country and debt data to analyze global debt trends, identify top debtor countries, and explore changes in debt composition (short-term vs. long-term) across      different economic regions.
+    * ✅ **Link:** [International Debt Statistics](https://www.kaggle.com/datasets/theworldbank/international-debt-statistics)
+    * **Analysis Focus:** A comprehensive multi-table dataset covering global external debt figures. Merge country-level and debt-type tables to analyze trends over time, identify top debtor nations, and explore shifts in       debt composition (e.g., short-term vs. long-term) across economic regions. :contentReference[oaicite:1]{index=1}
 
 36. **College Scorecard Data**
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/kaggle/college-scorecard)
