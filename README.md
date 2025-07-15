@@ -34,7 +34,7 @@ These datasets mimic real-world business problems, focusing on sales, customers,
     *   **Analysis Focus:** A fantastic multi-table dataset. Practice merging customer, order, payment, and product data to analyze the entire customer journey, identify top-selling products, and assess delivery performance.
 
 2.  **Superstore Sales Dataset**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/roshansharma/superstore-sales-dataset)
+    *   **Link:** [Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
     *   **Analysis Focus:** A classic business intelligence dataset. Analyze sales and profit by region, product category, and customer segment. Practice creating KPIs and time-series visualizations of sales trends.
 
 3.  **Online Retail II UCI**
@@ -50,17 +50,17 @@ These datasets mimic real-world business problems, focusing on sales, customers,
     *   **Analysis Focus:** A great dataset for customer segmentation. Explore demographic and behavioral data to define distinct customer personas for targeted marketing.
 
 6.  **Data Science & STEM Salaries**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/jackogozaly/data-science-and-stem-salaries)
-    *   **Analysis Focus:** Clean messy job titles and salary data. Analyze how factors like experience level, company size, and location impact salaries in the data industry.
+    *   ✅ **Link:** [Data Science Job Salaries](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
+    *   **Analysis Focus:** Clean messy job titles and salary fields. Explore how factors like experience level, employment type, company size, and location influence salary. Great dataset for practicing data cleaning, grouping and aggregation, and visualizing                 distributions or trends.
 
 7.  **Used Cars Price Prediction**
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction)
     *   **Analysis Focus:** This dataset requires significant cleaning of text and numerical columns (e.g., `Mileage`, `Engine`). Analyze the Indian used car market to find what features most influence car valuation.
 
-8.  **Fortune 500 Companies (2022)**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/whenamI/fortune-500-2022)
-    *   **Analysis Focus:** Analyze the landscape of America's top companies. Investigate revenue, profit, and employee counts by industry and location. Visualize the geographic concentration of corporate headquarters.
-
+8. **Fortune 500 Companies (2022)**
+   * ✅ **Link:** [Fortune 500 Companies](https://www.kaggle.com/datasets/rm1000/fortune-500-companies)
+   * **Analysis Focus:** Analyze the landscape of America's top companies from 1996–2023. Investigate revenue, profit, and employee counts by industry, state, and year. Visualize geographic concentration of corporate headquarters.
+     
 ### Category 2: Social & Demographic
 Datasets about people, society, health, and global trends that tell compelling stories.
 
@@ -89,8 +89,8 @@ Datasets about people, society, health, and global trends that tell compelling s
     *   **Analysis Focus:** Practice imputing missing values (for `bmi`) and analyze the dataset to identify the most significant demographic and health risk factors associated with strokes.
 
 15. **US Mass Shootings (1982-2023)**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/adamschroeder/us-mass-shootings-1982-2023)
-    *   **Analysis Focus:** Analyze a sensitive but important dataset to visualize trends over time, explore patterns in location types, and examine the demographic data of victims and shooters.
+   * ✅ **Link:** [US Mass Shootings (1982–2023)](https://www.kaggle.com/datasets/spscientist/stats-for-us-massshootings)
+   * **Analysis Focus:** Analyze trends over time, explore patterns in location types and demographics of victims and shooters. Visualization of incident frequency and geographic distribution.
 
 ### Category 3: Media & Culture
 Fun, relatable datasets about movies, music, and books, great for practicing text analysis and time-series visualization.
@@ -112,20 +112,20 @@ Fun, relatable datasets about movies, music, and books, great for practicing tex
     *   **Analysis Focus:** Clean and explore historical video game sales data. Analyze sales trends by platform, genre, and publisher to tell the story of the video game industry's evolution.
 
 20. **IMDb Movies Extensive Dataset**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/stefanoleone992/imdb-extensive-dataset)
-    *   **Analysis Focus:** A rich dataset to explore relationships between movie attributes. Analyze how budget, genre, director, and actors correlate with box office revenue and IMDb ratings.
+   * ✅ **Link:** [IMDb Extensive Dataset](https://www.kaggle.com/datasets/simhyunsu/imdbextensivedataset)
+   * **Analysis Focus:** Explore relationships between movie attributes—budget, genre, director, cast—and IMDb ratings or box office. Clean date fields, handle missing values, and visualize rating distributions and top genres.
 
 21. **The Simpsons by the Data**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/ambarish/the-simpsons-by-the-data)
-    *   **Analysis Focus:** A fun dataset for text and character analysis. Explore script data to determine which characters have the most lines, analyze sentiment, and visualize character interactions by location.
+   * ✅ **Link:** [The Simpsons Scripts Dataset](https://www.kaggle.com/datasets/ambarish/the-simpsons-by-the-data)
+   * **Analysis Focus:** Analyze script and character data: find most frequent lines per character, seasonal sentiment trends, and visualize character interactions or episode word counts.
 
 22. **Board Games Dataset**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/mrpantherson/board-games-dataset)
-    *   **Analysis Focus:** Explore the world of board games. Analyze the relationship between game mechanics (e.g., dice rolling, worker placement), complexity, and user ratings.
+   * ✅ **Link:** [Board Games Dataset](https://www.kaggle.com/datasets/jvanelteren/board-games)
+   * **Analysis Focus:** Explore how game mechanics (e.g., dice rolling, worker placement) and complexity relate to user ratings. Clean categorical features and visualize rating vs complexity.
 
 23. **Top 10,000 Books on Goodreads**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/jacksondivakarr/top-10000-books-in-goodreads)
-    *   **Analysis Focus:** Clean book titles and author names. Analyze rating distributions, find the most prolific authors, and explore how the number of pages or series length relates to a book's popularity.
+   * ✅ **Link:** [Goodreads Top 10k Books](https://www.kaggle.com/datasets/jacksondivakarr/top-10000-books-in-goodreads)
+   * **Analysis Focus:** Clean author and title names. Analyze rating distributions, most prolific authors, and explore how page counts or series length relate to popularity.
 
 ### Category 4: Geospatial & Environmental
 Datasets with location data, perfect for creating map visualizations and analyzing spatial patterns.
@@ -139,8 +139,8 @@ Datasets with location data, perfect for creating map visualizations and analyzi
     *   **Analysis Focus:** A classic geospatial analysis project. Clean and analyze the NYC Airbnb market. Create maps to visualize pricing, availability, and listing density by neighborhood and room type.
 
 26. **Global Air Quality (AQI)**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/hasibalmuzdaddid/air-quality-data-from-waqi)
-    *   **Analysis Focus:** Clean and process daily air quality data. Analyze and visualize pollution levels across different cities and countries over time to identify trends and compare regional air quality.
+    * ✅ **Link:** [Global Air Pollution Dataset](https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset)
+    * **Analysis Focus:** Clean and process daily air quality data. Analyze and visualize pollution levels across different cities and countries over time to identify trends and compare regional air quality. :contentReference[oaicite:1]{index=1}
 
 27. **Starbucks Locations Worldwide**
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/starbucks/store-locations)
@@ -165,9 +165,9 @@ Official data that often requires significant cleaning and can reveal important 
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/currie32/crimes-in-chicago)
     *   **Analysis Focus:** A large public dataset. Analyze crime trends in Chicago over time. Explore crime types by location (district) and visualize hotspots and temporal patterns.
 
-32. **NYC 311 Service Requests**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/new-york-city/311-service-requests-from-2010-to-present)
-    *   **Analysis Focus:** A massive dataset of citizen complaints. Analyze the most common types of complaints, response times, and patterns by borough. Requires efficient data handling due to its size.
+35. **Federal Elections Commission (FEC) Data**
+    * ✅ **Link:** [Congressional Election Expenditures](https://www.kaggle.com/datasets/fec/congressional-election-expenditures)
+    * **Analysis Focus:** A complex, multi-table dataset. Merge candidate and committee data to analyze campaign finance trends, identify top donors, and explore spending patterns in US federal elections. :contentReference[oaicite:3]{index=3}
 
 33. **Food Choices and Preferences**
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/borapajo/food-choices)
@@ -178,8 +178,8 @@ Official data that often requires significant cleaning and can reveal important 
     *   **Analysis Focus:** Explore a detailed dataset of gun violence incidents in the US. Analyze incident characteristics, participant demographics, and geographic trends.
 
 35. **Federal Elections Commission (FEC) Data**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/fec/federal-election-commission-data)
-    *   **Analysis Focus:** A complex, multi-table dataset. Merge candidate and committee data to analyze campaign finance trends, identify top donors, and explore spending patterns in US federal elections.
+    * ✅ **Link:** [Congressional Election Expenditures](https://www.kaggle.com/datasets/fec/congressional-election-expenditures)
+    * **Analysis Focus:** A complex, multi-table dataset. Merge candidate and committee data to analyze campaign finance trends, identify top donors, and explore spending patterns in US federal elections. :contentReference[oaicite:3]{index=3}
 
 36. **College Scorecard Data**
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/kaggle/college-scorecard)
@@ -189,8 +189,8 @@ Official data that often requires significant cleaning and can reveal important 
 Datasets about how things move, offering great practice for time-series and geospatial analysis.
 
 37. **US Airline Delays and Cancellations**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/sriharshachivukula/us-air-traffic-delays-and-cancellations-2015)
-    *   **Analysis Focus:** Analyze flight data to find the best and worst airports and airlines for on-time performance. Explore the reasons for delays and visualize monthly or seasonal trends.
+    * ✅ **Link:** [Flight Delay and Cancellation Dataset (2019–2023)](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023)
+    * **Analysis Focus:** Analyze flight data to find the best and worst airports and airlines for on-time performance. Explore the reasons for delays and visualize monthly or seasonal trends. :contentReference[oaicite:4]{index=4}
 
 38. **New York City Taxi Trip Duration**
     *   **Link:** [Link to Dataset](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)
@@ -200,13 +200,13 @@ Datasets about how things move, offering great practice for time-series and geos
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)
     *   **Analysis Focus:** A great time-series analysis dataset. Explore how weather and seasonality affect the number of bike rentals in London.
 
-40. **Worldwide M-Bike Sharing**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/slobo777/micro-mobility-sharing)
-    *   **Analysis Focus:** Clean and analyze scooter/bike sharing data from multiple cities. Compare usage patterns, trip durations, and distances across different urban environments.
+40. **Worldwide M‑Bike Sharing**
+    * ✅ **Link:** [Bike Sharing Networks Dataset](https://www.kaggle.com/datasets/shivd24coder/bike-sharing-networks-dataset)
+    * **Analysis Focus:** Clean and analyze scooter/bike sharing data from multiple cities. Compare usage patterns, trip durations, and distances across different urban environments. :contentReference[oaicite:5]{index=5}
 
 41. **Ford GoBike System Data**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/pronto/ford-gobike-system-data)
-    *   **Analysis Focus:** Analyze bike share usage in the San Francisco Bay Area. Identify the most popular routes, analyze trip durations by user type (subscriber vs. customer), and explore usage patterns by time of day.
+    * ✅ **Link:** [Ford GoBike System Data](https://www.kaggle.com/datasets/ahmedmohameddawoud/ford-gobike-system-data)
+    * **Analysis Focus:** Analyze bike share usage in the San Francisco Bay Area. Identify the most popular routes, analyze trip durations by user type (subscriber vs. customer), and explore usage patterns by time of day. :contentReference[oaicite:6]{index=6}
 
 ### Category 7: Unique & Niche
 Interesting and quirky datasets that are fun to explore and can spark creative analysis projects.
@@ -232,17 +232,17 @@ Interesting and quirky datasets that are fun to explore and can spark creative a
     *   **Analysis Focus:** While a classification problem, it's excellent for EDA on purely categorical data. Use frequency counts and visualizations to explore the physical characteristics that distinguish edible from poisonous mushrooms.
 
 47. **Zomato Bangalore Restaurants**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/himanshu-panwar/zomato-bangalore-restaurants)
-    *   **Analysis Focus:** Clean messy columns like `rate`, `cost`, and `cuisines`. Analyze the restaurant landscape of Bangalore to find popular cuisines, top-rated cheap eats, and the most common restaurant types by location.
+    * ✅ **Link:** [Zomato Bangalore Restaurants Dataset](https://www.kaggle.com/datasets/absin7/zomato-bangalore-dataset)
+    * **Analysis Focus:** Clean messy columns like `rate`, `cost`, and `cuisines`. Analyze the restaurant landscape of Bangalore to find popular cuisines, top-rated affordable eateries, and the distribution of restaurant types by locality.
 
 48. **Cryptocurrency Historical Prices**
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory)
     *   **Analysis Focus:** A great dataset for financial time-series analysis. Visualize and compare the historical performance of different cryptocurrencies. Analyze volatility and correlation between coins like Bitcoin and Ethereum.
 
 49. **Top 2700 US Breweries**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/shivan118/top-2700-us-breweries-dataset)
-    *   **Analysis Focus:** Analyze the craft beer scene in the US. Clean location data to map breweries by state, and explore the most common beer styles and the distribution of ABV/IBU levels.
+    * ✅ **Link:** [Breweries and Brew Pubs in the USA](https://www.kaggle.com/datasets/datafiniti/breweries-brew-pubs-in-the-usa)
+    * **Analysis Focus:** Analyze the craft beer scene in the US. Clean location data for mapping breweries by state, and explore the most common beer styles as well as the distribution of ABV/IBU levels.
 
 50. **Global Methane Emissions**
-    *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/thedataadventurer/global-methane-emissions)
-    *   **Analysis Focus:** Analyze global methane emissions by source (agriculture, waste, energy). Visualize trends over time and compare the emissions profiles of different countries and regions.
+    * ✅ **Link:** [Global Methane Emissions Dataset](https://www.kaggle.com/datasets/ashishraut64/global-methane-emissions)
+    * **Analysis Focus:** Analyze global methane emissions by source (agriculture, waste, energy). Visualize emission trends over time and compare profiles across countries and regions.
