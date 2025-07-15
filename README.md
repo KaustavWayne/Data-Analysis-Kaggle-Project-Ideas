@@ -89,8 +89,8 @@ Datasets about people, society, health, and global trends that tell compelling s
     *   **Analysis Focus:** Practice imputing missing values (for `bmi`) and analyze the dataset to identify the most significant demographic and health risk factors associated with strokes.
 
 15. **US Mass Shootings (1982-2023)**
-   * ✅ **Link:** [US Mass Shootings (1982–2023)](https://www.kaggle.com/datasets/spscientist/stats-for-us-massshootings)
-   * **Analysis Focus:** Analyze trends over time, explore patterns in location types and demographics of victims and shooters. Visualization of incident frequency and geographic distribution.
+   * ✅ **Link:** [US Mass Shootings Dataset (1966–2021)](https://www.kaggle.com/datasets/dsp112/us-mass-shootings-dataset-19822021)
+   * **Analysis Focus:** Investigate trends in the frequency and severity of shootings over time. Explore geographic distribution, location types (e.g., schools, public spaces), and demographic profiles of victims and           shooters. Ideal for time-series and geospatial visualizations.
 
 ### Category 3: Media & Culture
 Fun, relatable datasets about movies, music, and books, great for practicing text analysis and time-series visualization.
@@ -116,16 +116,17 @@ Fun, relatable datasets about movies, music, and books, great for practicing tex
    * **Analysis Focus:** Explore relationships between movie attributes—budget, genre, director, cast—and IMDb ratings or box office. Clean date fields, handle missing values, and visualize rating distributions and top genres.
 
 21. **The Simpsons by the Data**
-   * ✅ **Link:** [The Simpsons Scripts Dataset](https://www.kaggle.com/datasets/ambarish/the-simpsons-by-the-data)
-   * **Analysis Focus:** Analyze script and character data: find most frequent lines per character, seasonal sentiment trends, and visualize character interactions or episode word counts.
+   * ✅ **Link:** [The Simpsons Dataset](https://www.kaggle.com/datasets/prashant111/the-simpsons-dataset)
+   * **Analysis Focus:** Analyze script and character data: find the most frequent lines per character, analyze seasonal sentiment trends, visualize character interactions or word counts per episode.
 
 22. **Board Games Dataset**
-   * ✅ **Link:** [Board Games Dataset](https://www.kaggle.com/datasets/jvanelteren/board-games)
-   * **Analysis Focus:** Explore how game mechanics (e.g., dice rolling, worker placement) and complexity relate to user ratings. Clean categorical features and visualize rating vs complexity.
+   * ✅ **Link:** [Board Games Database](https://www.kaggle.com/datasets/threnjen/board-games-database-from-boardgamegeek)
+   * **Analysis Focus:** Explore board games data: analyze relationships between mechanics (e.g., dice rolling, worker placement) and user ratings. Clean categorical features and visualize ratings across different game complexities.
 
 23. **Top 10,000 Books on Goodreads**
-   * ✅ **Link:** [Goodreads Top 10k Books](https://www.kaggle.com/datasets/jacksondivakarr/top-10000-books-in-goodreads)
-   * **Analysis Focus:** Clean author and title names. Analyze rating distributions, most prolific authors, and explore how page counts or series length relate to popularity.
+   * ✅ **Link:** [Goodreads Top 10k Books](https://www.kaggle.com/datasets/forgetabhi/top-10000-books-good-reads-dataset)
+   * **Analysis Focus:** Clean author and title names. Analyze rating distributions, identify the most prolific authors, and explore how variables like page count or series length relate to popularity.
+
 
 ### Category 4: Geospatial & Environmental
 Datasets with location data, perfect for creating map visualizations and analyzing spatial patterns.
@@ -165,7 +166,7 @@ Official data that often requires significant cleaning and can reveal important 
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/currie32/crimes-in-chicago)
     *   **Analysis Focus:** A large public dataset. Analyze crime trends in Chicago over time. Explore crime types by location (district) and visualize hotspots and temporal patterns.
 
-35. **Federal Elections Commission (FEC) Data**
+32. **Federal Elections Commission (FEC) Data**
     * ✅ **Link:** [Congressional Election Expenditures](https://www.kaggle.com/datasets/fec/congressional-election-expenditures)
     * **Analysis Focus:** A complex, multi-table dataset. Merge candidate and committee data to analyze campaign finance trends, identify top donors, and explore spending patterns in US federal elections. :contentReference[oaicite:3]{index=3}
 
@@ -177,9 +178,9 @@ Official data that often requires significant cleaning and can reveal important 
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/jameslko/gun-violence-data)
     *   **Analysis Focus:** Explore a detailed dataset of gun violence incidents in the US. Analyze incident characteristics, participant demographics, and geographic trends.
 
-35. **Federal Elections Commission (FEC) Data**
-    * ✅ **Link:** [Congressional Election Expenditures](https://www.kaggle.com/datasets/fec/congressional-election-expenditures)
-    * **Analysis Focus:** A complex, multi-table dataset. Merge candidate and committee data to analyze campaign finance trends, identify top donors, and explore spending patterns in US federal elections. :contentReference[oaicite:3]{index=3}
+35. **World Bank International Debt Statistics**
+    * ✅ **Link:** [World Bank International Debt Statistics](https://www.kaggle.com/datasets/worldbank/international-debt-statistics)
+    * **Analysis Focus:** A complex, multi-table dataset. Merge country and debt data to analyze global debt trends, identify top debtor countries, and explore changes in debt composition (short-term vs. long-term) across      different economic regions.
 
 36. **College Scorecard Data**
     *   **Link:** [Link to Dataset](https://www.kaggle.com/datasets/kaggle/college-scorecard)
