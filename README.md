@@ -10,7 +10,7 @@ The focus here is not on predictive modeling but on drawing meaningful insights 
 
 ---
 
-![Data Analysis Banner](https://i.imgur.com/VkqU8pA.png)
+![Data Analysis Banner](DA-logo.jpg)
 
 > 💡 *"Before building models, understand your data first."*
 
